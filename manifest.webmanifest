@@ -1,0 +1,25 @@
+{
+  "name": "Class Attendance",
+  "short_name": "Attendance",
+  "description": "Scan student QR codes and export the attendance list as Word or PDF.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1C2B4F",
+  "theme_color": "#1C2B4F",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
